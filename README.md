@@ -7,7 +7,7 @@
 - [Group Assignments](https://github.com/CYBORGALAN/Group-assignments-/blob/main/README.md)
 - [Identity Lifecycle](https://github.com/CYBORGALAN/Identity-lifecycles/blob/main/README.md)
 - [Audit Logs](https://github.com/CYBORGALAN/Audit-logs/blob/main/README.md)
-- [Sign-In Logs]()
+- [Sign-In Logs](https://github.com/CYBORGALAN/Sign-in-Logs/blob/main/README.md)
 - [Authentication]()
 - <b>Deployment, Networking, Troubleshooting</b>
 - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
