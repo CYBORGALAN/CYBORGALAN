@@ -1,7 +1,7 @@
 <h1>Hi, I'm Alan, an IT Professional </a>☺</h1>
 
 - <b>Microsoft Azure Entra ID</b>
-- [Creating User's in Entra ID]()
+- [Creating User's in Entra ID](https://github.com/CYBORGALAN/User-accounts/blob/main/README.md)
 - [Cloud Provisioning - P2 Licensing]()
 - [Role Assignments]()
 - [Group Assignments]()
