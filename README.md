@@ -4,7 +4,7 @@
 - [Creating User's in Entra ID](https://github.com/CYBORGALAN/User-accounts/blob/main/README.md)
 - [Cloud Provisioning - P2 Licensing](https://github.com/CYBORGALAN/P2-Licensing/blob/main/README.md)
 - [Role Assignments](https://github.com/CYBORGALAN/Role-Assignments-/blob/main/README.md)
-- [Group Assignments]()
+- [Group Assignments](https://github.com/CYBORGALAN/Group-assignments-/blob/main/README.md)
 - [Identity Lifecycle]()
 - [Audit Logs]()
 - [Sign-In Logs]()
