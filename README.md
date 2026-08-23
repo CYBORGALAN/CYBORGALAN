@@ -6,7 +6,7 @@
 - [Role Assignments](https://github.com/CYBORGALAN/Role-Assignments-/blob/main/README.md)
 - [Group Assignments](https://github.com/CYBORGALAN/Group-assignments-/blob/main/README.md)
 - [Identity Lifecycle](https://github.com/CYBORGALAN/Identity-lifecycles/blob/main/README.md)
-- [Audit Logs]()
+- [Audit Logs](https://github.com/CYBORGALAN/Audit-logs/blob/main/README.md)
 - [Sign-In Logs]()
 - [Authentication]()
 - <b>Deployment, Networking, Troubleshooting</b>
