@@ -2,7 +2,7 @@
 
 - <b>Microsoft Azure Entra ID</b>
 - [Creating User's in Entra ID](https://github.com/CYBORGALAN/User-accounts/blob/main/README.md)
-- [Cloud Provisioning - P2 Licensing]()
+- [Cloud Provisioning - P2 Licensing](https://github.com/CYBORGALAN/P2-Licensing/blob/main/README.md)
 - [Role Assignments]()
 - [Group Assignments]()
 - [Identity Lifecycle]()
