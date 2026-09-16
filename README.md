@@ -36,6 +36,44 @@
 
     * Configured and reviewed authentication methods such as Multi-Factor Authentication (MFA) to practice securing user identities.
 
+* <b>Okta Administration</b>
+
+  * [Import Users from Entra ID to Okta Environment](https://github.com/CYBORGALAN/Import-Users-from-Entra-ID-to-Okta-Environment)
+
+    * Migrated users from Microsoft Entra ID into an Okta environment, practicing the user import process and learning how identities can be synchronized between platforms.
+
+  * [Enrollment Provisioning in Okta](https://github.com/CYBORGALAN/Enrollment-Provisioning-in-Okta)
+
+    * Completed user enrollment and provisioning after importing accounts from Microsoft Entra ID. Activated users, configured temporary passwords, completed enrollment requirements, and verified that accounts were ready for use.
+
+  * [Creating Users in Okta Manually](https://github.com/CYBORGALAN/Creating-Users-in-Okta-Manually)
+
+    * Created and configured user accounts manually in Okta, including basic profile information, to practice the user onboarding process used by IAM administrators.
+
+  * [Add Attributes to User Profiles](https://github.com/CYBORGALAN/Add-Attributes-to-User-Profiles)
+
+    * Added and managed user attributes within Okta profiles to organize identity information and support access decisions and automated group assignments.
+
+  * [Creating Groups in Okta Environment](https://github.com/CYBORGALAN/Creating-Groups-in-Okta)
+
+    * Created and managed groups within Okta to organize users and practice using groups to help manage access within an organization.
+
+  * [Attribute-Based Access Control (ABAC) Rules](https://github.com/CYBORGALAN/-ABAC---Rules-in-Okta)
+
+    * Created Okta group rules using user attributes to automatically assign users to the appropriate groups and practice attribute-based access control.
+
+  * [Device Management in Okta](https://github.com/CYBORGALAN/Device-Management)
+
+    * Reviewed registered devices in Okta to understand how organizations manage trusted devices and monitor device activity as part of an identity and access management strategy.
+
+  * [Audit Logs in Okta](https://github.com/CYBORGALAN/Audit-Logs-in-Okta)
+
+    * Reviewed Okta audit logs to monitor administrative activity, track changes, and understand how identity-related actions can be investigated and documented.
+
+  * [PowerShell](https://github.com/CYBORGALAN/powershell-okta)
+
+    * Used basic PowerShell commands to filter, sort, and manage information while practicing common administrative tasks related to IAM.
+
 ## Deployment, Networking, and Troubleshooting:
 
 * [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/CYBORGALAN/Creating-Resource-Group-Deploying-Virtual-Machine-and-RDP/blob/main/README.md)
@@ -75,43 +113,4 @@
 * [SpiceWorks Ticketing System](https://github.com/CYBORGALAN/SpiceWorks-Ticketing-System/blob/main/README.md)
 
   * Practiced using a ticketing system to create, organize, update, and resolve IT support tickets while documenting troubleshooting steps and resolutions.
-    
-  **Okta Administration**
-
-* [**Import Users from Entra ID to Okta Environment**](https://github.com/CYBORGALAN/Import-Users-from-Entra-ID-to-Okta-Environment)
-
-
-  * Migrated users from Microsoft Entra ID into an Okta environment, practicing the user import process and learning how identities can be synchronized between platforms.
-
-* [**Enrollment Provisioning in Okta**](https://github.com/CYBORGALAN/Enrollment-Provisioning-in-Okta)
-
-  * Completed user enrollment and provisioning after importing accounts from Microsoft Entra ID. Activated users, configured temporary passwords, completed enrollment requirements, and verified that accounts were ready for use.
-
-* [**Creating Users in Okta Manually**](https://github.com/CYBORGALAN/Creating-Users-in-Okta-Manually)
-
-  * Created and configured user accounts manually in Okta, including basic profile information, to practice the user onboarding process used by IAM administrators.
-
-* [**Add Attributes to User Profiles**](https://github.com/CYBORGALAN/Add-Attributes-to-User-Profiles)
-
-  * Added and managed user attributes within Okta profiles to organize identity information and support access decisions and automated group assignments.
-
-* [**Creating Groups in Okta Environment**](https://github.com/CYBORGALAN/Creating-Groups-in-Okta)
-
-  * Created and managed groups within Okta to organize users and practice using groups to help manage access within an organization.
-
-* [**Attribute-Based Access Control (ABAC) Rules**](https://github.com/CYBORGALAN/-ABAC---Rules-in-Okta)
-
-  * Created Okta group rules using user attributes to automatically assign users to the appropriate groups and practice attribute-based access control.
-
-* [**Device Management in Okta**](https://github.com/CYBORGALAN/Device-Management)
-
-  * Reviewed registered devices in Okta to understand how organizations manage trusted devices and monitor device activity as part of an identity and access management strategy.
-
-* [**Audit Logs in Okta**](https://github.com/CYBORGALAN/Audit-Logs-in-Okta)
-
-  * Reviewed Okta audit logs to monitor administrative activity, track changes, and understand how identity-related actions can be investigated and documented.
-
-* [**PowerShell**](https://github.com/CYBORGALAN/powershell-okta)
-
-  * Used basic PowerShell commands to filter, sort, and manage information while practicing common administrative tasks related to IAM.
 
